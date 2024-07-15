@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415978308440",
+    "project_id": "flutterfirebase-7415d",
+    "storage_bucket": "flutterfirebase-7415d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415978308440:android:6219d9afbe7a3bc2a7db2d",
+        "android_client_info": {
+          "package_name": "com.example.zapateria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18Z8SHWGwLkAgyxXOpQS2sul93UAezPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
